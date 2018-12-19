@@ -13,3 +13,5 @@ env
 # ansible
 *.retry
 /ansible/service_account.json
+/ansible/roles/jdauphant.nginx
+/ansible/vault.key
